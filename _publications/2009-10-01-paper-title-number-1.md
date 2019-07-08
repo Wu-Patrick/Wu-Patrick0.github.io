@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "Reconstruction of DEMs from ERS-1/2 tandem data in mountainous area facilitated by SRTM data."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: /publication/2007-paper-title-number-1
+date: 2007
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: '32.	Liao, M., Wang, T., Lu, L., Zhou, W., and Li, D. (2007). Reconstruction of DEMs from ERS-1/2 tandem data in mountainous area facilitated by SRTM data. IEEE Trans. Geosci. Remote Sensing, 45(7), 2325-2335.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
