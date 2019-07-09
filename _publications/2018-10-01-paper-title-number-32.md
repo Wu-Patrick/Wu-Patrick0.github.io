@@ -1,5 +1,5 @@
 ---
-title: "I Characterization of hydrogeological properties in Salt Lake Valley, Utah using InSAR"
+title: "Characterization of hydrogeological properties in Salt Lake Valley, Utah using InSAR"
 collection: publications
 permalink: /publication/2018-10-01-paper-title-number-32
 date: 2018-10-01
