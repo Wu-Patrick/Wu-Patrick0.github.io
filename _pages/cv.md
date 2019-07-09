@@ -54,6 +54,7 @@ Academic communication outside of the immediate organization:
 *	Summer of 2014, one-month visiting of Prof. J-P, Avouac’s group at Caltech. 
 *	Spring of 2016, one-week visiting of Prof. D. Perissin’s group at Purdue University
 *	Summer of 2016, one-month visiting of Prof. Roland Bürgmann’s group at UC Berkeley 
+
 Collaborators: R. Bürgmann (UC Berkeley, USA); Z. Lu (Southern Methodist University, USA); J-P Avouac (Caltech, USA); R. F., Hanssen (Delft University of Technology, Netherlands); S. Jonsson (King Abdullah University of Science and Technology, Saudi Arabia); Daniele Perissin (Purdue University, USA); F. Rocca (Politecnico di Milano, Italy); Shengji Wei and Sylvain Barbot (Nanyang Technological University, Singapore).
 
 Publications
