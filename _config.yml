@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "China"
 title                    : "Teng Wang"
 title_separator          : "-"
 name                     : &name "Teng Wang"
@@ -15,7 +15,7 @@ description              : &description "School of Earth and Space Sciences, Pek
 url                      : https://SARImgGeodesy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SARImgGeodesy/SARImgGeodesy.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true # true, false (default)
@@ -86,6 +86,7 @@ author:
   bio              : "Assistant Professor, School of Earth and Space Sciences, Peking University"
   location         : "Beijing, China"
   email            : "wang.teng@pku.edu.cn"
+  orcid            : "https://orcid.org/0000-0003-3729-0139"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +103,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-3729-0139"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
