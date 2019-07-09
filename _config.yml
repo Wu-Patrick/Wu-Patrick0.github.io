@@ -86,6 +86,7 @@ author:
   bio              : "Assistant Professor, School of Earth and Space Sciences, Peking University"
   location         : "Beijing, China"
   email            : "wang.teng@pku.edu.cn"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,7 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3729-0139"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
