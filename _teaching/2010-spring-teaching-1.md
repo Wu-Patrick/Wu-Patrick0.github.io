@@ -8,11 +8,3 @@ date: 2010-01-01
 location: "Wuhan, China"
 ---
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
