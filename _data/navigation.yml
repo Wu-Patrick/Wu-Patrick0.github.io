@@ -12,3 +12,12 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Earthquakes"
+    url: /earthquakes/
+    
+  - title: "Volcanos"
+    url: /Volcanos/
+    
+  - title: "Landslides"
+    url: /Landslides/
+    
