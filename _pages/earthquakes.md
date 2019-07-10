@@ -1,11 +1,11 @@
 ---
 permalink: /
 title: "Earthquakes"
-excerpt: "earthquakes research"
+excerpt: "Earthquakes"
 author_profile: true
 redirect_from: 
-  - /earthquake/
-  - /earthquake.html
+  - /Earthquakes/
+  - /Earthquakes.html
 ---
 About me
 ======
