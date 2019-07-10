@@ -1,5 +1,9 @@
 # main links links
 main:
+    
+  - title: "People"
+    url: /People/
+
   - title: "Publications"
     url: /publications/
 
@@ -20,6 +24,3 @@ main:
     
   - title: "Landslides"
     url: /Landslides/
-    
-  - title: "People"
-    url: /People/
