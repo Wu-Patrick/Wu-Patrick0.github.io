@@ -15,6 +15,6 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Research Interest
 ======
-	Imaging Geodesy: SAR/InSAR, time-series analysis, pixel-offset tracking, change detection 
-	Geophysics: earthquake and volcano deformation, large-scale tectonic deformation
-	Nature Hazards: Landslides, infrastructure stability, urban subsidence, hydrological process
+* Imaging Geodesy: SAR/InSAR, time-series analysis, pixel-offset tracking, change detection 
+* Geophysics: earthquake and volcano deformation, large-scale tectonic deformation
+* Nature Hazards: Landslides, infrastructure stability, urban subsidence, hydrological process
