@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "site-logo.png"
+  avatar           : "site-logo.bmp"
   bio              : "School of Earth and Space Sciences, Peking University"
   location         : "Beijing, China"
   email            : "wang.teng@pku.edu.cn"
