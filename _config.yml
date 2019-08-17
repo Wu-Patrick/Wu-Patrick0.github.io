@@ -15,7 +15,7 @@ description              : &description "-"
 url                      : https://SARImgGeodesy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SARImgGeodesy/SARImgGeodesy.github.io"
-teaser                   : "site-logo.png"
+teaser                   : "-"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true # true, false (default)
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Teng Wang"
-  avatar           : "site-logo.png"
+  avatar           : "Teng Wang.jpg"
   bio              : "Assistant Professor, School of Earth and Space Sciences, Peking University"
   location         : "Beijing, China"
   email            : "wang.teng@pku.edu.cn"
