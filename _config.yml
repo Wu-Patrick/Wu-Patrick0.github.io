@@ -81,9 +81,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "-"
+  name             : 
   avatar           : "site-logo.png"
-  bio              : "Assistant Professor, School of Earth and Space Sciences, Peking University"
+  bio              : "School of Earth and Space Sciences, Peking University"
   location         : "Beijing, China"
   email            : "wang.teng@pku.edu.cn"
   orcid            : "https://orcid.org/0000-0003-3729-0139"
