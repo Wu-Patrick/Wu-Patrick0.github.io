@@ -16,11 +16,12 @@ author_profile: true
 Sentinel-1 Interferometric Processor (S1IP) is a data processing software for Sentinel-1 TOPS InSAR data developed by the image geodetic team of Peking University.
 
 The software includes 4 subroutines.
-![subroutines](/images/softwarelogos.png)
+<img src="/images/softwarelogos.png" width = "400" height = "100" />
 
 ## Click to download
-![Trial version](/images/Trial version logo.png) [Trial version](https://github.com/Wu-Patrick/MyDownload/raw/master/Sentinel-1Processor-PublicRelease.zip)
-![Full version](/images/Full version logo.png) Full version [(contact us)](mailto:wang.teng@pku.edu.cn)
+<img src="/images/Trial version logo.png" width = "40" height = "40" /> [Trial version](https://github.com/Wu-Patrick/MyDownload/raw/master/Sentinel-1Processor-PublicRelease.zip)
+
+<img src="/images/Full version logo.png" width = "40" height = "40" /> Full version [(contact us)](mailto:wang.teng@pku.edu.cn)
 
 ## Manual
-![Manual](/images/manual logo.png) [Chinese](/files/manual.pdf)
+<img src="/images/manual logo.png" width = "40" height = "40" /> [Chinese](/files/manual.pdf)
