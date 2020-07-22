@@ -46,7 +46,7 @@ By the end of this course, participants will be able to understand how SAR works
 
  
 
-### **Session 1: Proposal writing (Week 1-6, 30%) ** 
+### Session 1: Proposal writing (Week 1-6, 30%) 
 
  
 
