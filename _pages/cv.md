@@ -65,6 +65,15 @@ Publications
   
 Software
 ======
+
+  {% include 'html-section.html' %}
+  
+  ----
+  
+  <ul>{% include 'html-section.html' %}</ul>
+  
+  ----
+  
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
