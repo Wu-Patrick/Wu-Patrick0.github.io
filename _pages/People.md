@@ -16,9 +16,9 @@ author_profile: true
 
 ## Principle Investigator
 
-![PI_photo](/images/PI_photo.jpg)
-**Teng Wang**
-Assistant Profess, Peking University
+![PI_photo](/images/PI_photo.jpg)  
+**Teng Wang**  
+Assistant Profess, Peking University  
 wang.teng@pku.edu.cn
 
 **Research Interest**
@@ -44,7 +44,7 @@ wang.teng@pku.edu.cn
 * **Yuexiang Wang**  
   Surface deformation associated with elasticity and fluid mechanics  
 
-#### **Co-supervised with relevant projects in our group**
+### **Co-supervised with relevant projects in our group**
 
 * **Jin Ge** (with Prof. Xuhua Shi, Zhejiang University)  
   Contemporary surface deformation of the Pamir fault system from InSAR  
@@ -70,7 +70,7 @@ wang.teng@pku.edu.cn
 * **Lv Fu**  
   Large-scale SAR interferometry and applications to landslides  
 
-#### **Co-supervised with relevant projects in our group**
+### **Co-supervised with relevant projects in our group**
 
 * **Zhongcheng Cao** (with Prof. Yonghong Zhao, Peking University)  
   Deformation and mechanism of loess landslides   
