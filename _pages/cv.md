@@ -66,7 +66,7 @@ Publications
 Software
 ======
 
-[Sentinel-1 Processor](/software)
+* **[Sentinel-1 Processor](/software)**
   
 Teaching
 ======
