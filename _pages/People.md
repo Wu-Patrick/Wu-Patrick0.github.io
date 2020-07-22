@@ -1,7 +1,9 @@
 ---
+
 layout: archive
 title: "People"
 permalink: /People/
+
 author_profile: true
 ---
 
@@ -15,7 +17,7 @@ author_profile: true
 ## Principle Investigator
 
 ![PI_photo](/images/PI_photo.jpg)
-Teng Wang
+**Teng Wang**
 Assistant Profess, Peking University
 wang.teng@pku.edu.cn
 
@@ -28,67 +30,69 @@ wang.teng@pku.edu.cn
 ## Post-docs
 
 2020
-Bahruz Ahadov (Boya Fellowship)
-Tectonic deformation modeling
+
+* **Bahruz Ahadov** (Boya Fellowship)  
+  Tectonic deformation modeling
 
 ## Phd Students
 
-2020
-Ziming Liu
-Large-scale SAR interferometry and applications to earthquake cycles
+2020  
 
-Yuexiang Wang
-Surface deformation associated with elasticity and fluid mechanics
+* **Ziming Liu**  
+  Large-scale SAR interferometry and applications to earthquake cycles   
 
-**Co-supervised with relevant projects in our group**
+* **Yuexiang Wang**  
+  Surface deformation associated with elasticity and fluid mechanics  
 
-Jin Ge (with Prof. Xuhua Shi, Zhejiang University)
-Contemporary surface deformation of the Pamir fault system from InSAR
+#### **Co-supervised with relevant projects in our group**
 
-Wenzhi Fan (with Prof. Yonghong Zhao, Peking University)
-Atmospheric related signals in InSAR
+* **Jin Ge** (with Prof. Xuhua Shi, Zhejiang University)  
+  Contemporary surface deformation of the Pamir fault system from InSAR  
 
-Andong Xu (with Prof. Yonghong Zhao, Peking University)
-Coseismic ruptures and fractures
+* **Wenzhi Fan** (with Prof. Yonghong Zhao, Peking University)  
+  Atmospheric related signals in InSAR  
 
-Zhipeng Wu (with Prof. Yu Wang, University of Chinese Academy of Sciences) 
-AI in time-series InSAR analysis
+* Andong Xu (with Prof. Yonghong Zhao, Peking University)  
+  Coseismic ruptures and fractures  
 
-Heng Luo (with Prof. Mingsheng Liao, Wuhuan University)
-Small and deep earthquakes
+* **Zhipeng Wu** (with Prof. Yu Wang, University of Chinese Academy of Sciences)   
+  AI in time-series InSAR analysis  
+
+* **Heng Luo** (with Prof. Mingsheng Liao, Wuhuan University)  
+  Small and deep earthquakes  
 
 
 
 ## Master Students
 
-2019
-Lv Fu
-Large-scale SAR interferometry and applications to landslides
+2019  
 
-**Co-supervised with relevant projects in our group**
+* **Lv Fu**  
+  Large-scale SAR interferometry and applications to landslides  
 
-Zhongcheng Cao (with Prof. Yonghong Zhao, Peking University)
-Deformation and mechanism of loess landslides 
+#### **Co-supervised with relevant projects in our group**
 
-Yuqing He (with Prof. Li Zhao, Peking University)
-Coseismic deformation and fault geometry 
+* **Zhongcheng Cao** (with Prof. Yonghong Zhao, Peking University)  
+  Deformation and mechanism of loess landslides   
 
-Ru Liu (with Prof. Yonghong Zhao, Peking University)
-Coseismic landslides triggering
+* **Yuqing He** (with Prof. Li Zhao, Peking University)  
+  Coseismic deformation and fault geometry   
 
-Qi Zhang (with Prof. Yonghong Zhao, Peking University)
-AI in InSAR and change detection
+* **Ru Liu** (with Prof. Yonghong Zhao, Peking University)  
+  Coseismic landslides triggering  
+
+* **Qi Zhang** (with Prof. Yonghong Zhao, Peking University)  
+  AI in InSAR and change detection  
 
 ## Supervised undergraduate projects:
 
-2020
+2020  
 
-* Ziming Liu: Least-square unwrapping based on phase gradient summation and its application in simulation of interseismic deformation
-* Yuexiang Wang: The simulation of fluid on the Earth surface – numerical calculation based on Bingham model
-* Qingyu Sui: Simulation of the influence of solid tide displacement on InSAR phase
+* **Ziming Liu**: Least-square unwrapping based on phase gradient summation and its application in simulation of interseismic deformation  
+* **Yuexiang Wang**: The simulation of fluid on the Earth surface – numerical calculation based on Bingham model  
+* **Qingyu Sui**: Simulation of the influence of solid tide displacement on InSAR phase  
 
-2019
+2019  
 
-* Haichuan Li: Using SAR image to detect landslides induced by Wenchuan earthquake and its spatial distribution
-* Cailin Jia: Titan in Synthetic Aperture Radar Images
-
+* **Haichuan Li**: Using SAR image to detect landslides induced by Wenchuan earthquake and its spatial distribution  
+* **Cailin Jia**: Titan in Synthetic Aperture Radar Images  
