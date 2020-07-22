@@ -66,21 +66,7 @@ Publications
 Software
 ======
 
-----
-
-[Sentinel1Processor](/pages/software)
-
-  {% include software %}
-  
-  ----
-  
-  <ul>{% include 'software.html' %}</ul>
-  
-  ----
-  
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[Sentinel-1 Processor](/software)
   
 Teaching
 ======
