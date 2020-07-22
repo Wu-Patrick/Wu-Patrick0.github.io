@@ -67,7 +67,7 @@ Software
 ======
 
 
-* **[Sentinel-1 Processor](/software)**  
+* **[Sentinel-1 interferometry processor](/software)**  
 
 
   
