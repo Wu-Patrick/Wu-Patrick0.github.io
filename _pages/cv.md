@@ -66,11 +66,15 @@ Publications
 Software
 ======
 
-  {% include 'software.md' %}
+----
+
+[Sentinel1Processor](/pages/software)
+
+  {% include software %}
   
   ----
   
-  <ul>{% include 'software.md' %}</ul>
+  <ul>{% include 'software.html' %}</ul>
   
   ----
   
