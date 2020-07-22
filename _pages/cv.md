@@ -66,7 +66,7 @@ Publications
 Software
 ======
   <ul>{% for post in site.talks %}
-    {% include software.html %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
