@@ -111,13 +111,13 @@ Select one paper from any topic you are interested in, or a paper you selected b
 
 **Ch 0.   Introduction 绪论 (Lecture 1)**  
 
-0.1 Deformation and geodesy | 地表形变和大地测量  
+0.1 Deformation and geodesy \| 地表形变和大地测量  
 
-0.2 Introduction to SAR systems | SAR系统发展概述
+0.2 Introduction to SAR systems \| SAR系统发展概述
 
-0.3 SAR Imaging Geodesy and Applications | 雷达影像测地学应用及案例
+0.3 SAR Imaging Geodesy and Applications \| 雷达影像测地学应用及案例
 
-0.4 Test-1: Searching for SAR images | SAR影像数据查询和下载
+0.4 Test-1: Searching for SAR images \| SAR影像数据查询和下载
 
  
 
@@ -127,15 +127,15 @@ Homework (https://disk.pku.edu.cn:443/link/4184774207E91DDAE474EA510F55BFA6)
 
  
 
-**Ch 1.   Principle of SAR imaging | SAR成像原理 (Lecture 2)**
+**Ch 1.   Principle of SAR imaging \| SAR成像原理 (Lecture 2)**
 
-1.1 Synthetic Aperture Radar | 合成孔径雷达成像原理
+1.1 Synthetic Aperture Radar \| 合成孔径雷达成像原理
 
-1.2     Coherent imaging |相干成像
+1.2     Coherent imaging \|相干成像
 
-1.3 Speckle noises | 斑点噪声
+1.3 Speckle noises \| 斑点噪声
 
-1.4 Test-2: Plotting and knowing SAR images | SAR影像读取、显示和地物识别
+1.4 Test-2: Plotting and knowing SAR images \| SAR影像读取、显示和地物识别
 
  
 
@@ -147,15 +147,15 @@ SAR Movies (https://disk.pku.edu.cn:443/link/5D80A0E815C339BAFD365562F6E8AA52)
 
  
 
-**Ch 2.     SAR Amplitude | 幅度影像（Lecture 3）**
+**Ch 2.     SAR Amplitude \| 幅度影像（Lecture 3）**
 
-2.1 Target scattering mechanism | 目标散射特性
+2.1 Target scattering mechanism \| 目标散射特性
 
-2.2     Point-like target and distributed target | 点目标和分布式目标
+2.2     Point-like target and distributed target \| 点目标和分布式目标
 
-2.3 Amplitude image interpretation and target detection | 幅度影像解译和目标探测
+2.3 Amplitude image interpretation and target detection \| 幅度影像解译和目标探测
 
-2.4     Test-3: detect strong reflectors in SAR images | 从雷达影像中探测强散射体
+2.4     Test-3: detect strong reflectors in SAR images \| 从雷达影像中探测强散射体
 
  
 
@@ -169,15 +169,15 @@ Homework (https://disk.pku.edu.cn:443/link/CDFF81E9D36A44F55FF7C90C9C97C136)
 
  
 
-**Ch 3.   SAR imaging geometry | SAR成像几何（Lecture 4）**
+**Ch 3.   SAR imaging geometry \| SAR成像几何（Lecture 4）**
 
-3.1     SAR slant-range imaging geometry | SAR斜视成像几何
+3.1     SAR slant-range imaging geometry \| SAR斜视成像几何
 
-3.2     Geometric distortion | 几何畸变
+3.2     Geometric distortion \| 几何畸变
 
-3.3     Geocoding | 地理编码
+3.3     Geocoding \| 地理编码
 
-3.4     Test 4: Tracking oil level in a tank | 利用雷达成像几何观察油罐储油量变化
+3.4     Test 4: Tracking oil level in a tank \| 利用雷达成像几何观察油罐储油量变化
 
  
 
@@ -187,15 +187,15 @@ Lecture material (https://disk.pku.edu.cn:443/link/CC4C653CA73CBDE364CC9C6ACB40C
 
  
 
-**Ch 4.   image cross-correlation and pixel offsets | 影像互相关和像素偏移（Lecture 5）**
+**Ch 4.   image cross-correlation and pixel offsets \| 影像互相关和像素偏移（Lecture 5）**
 
-4.1 Cross-correlation | 互相关计算
+4.1 Cross-correlation \| 互相关计算
 
-4.2 Pixel-offset tracking | 像素偏移追踪
+4.2 Pixel-offset tracking \| 像素偏移追踪
 
-4.3 Three-dimensional displacement inversion | 三维形变反演
+4.3 Three-dimensional displacement inversion \| 三维形变反演
 
-4.4 Test 5: Calculating displacements due to nuclear test | 计算核爆形变场
+4.4 Test 5: Calculating displacements due to nuclear test \| 计算核爆形变场
 
 Lecture material (https://disk.pku.edu.cn:443/link/59BA371832FF85D6A1AD0AF3BAE3A454)
 
@@ -205,15 +205,15 @@ Homework (https://disk.pku.edu.cn:443/link/06F790B0F40FDB77BA428830D1114153)
 
  
 
-**Ch 5. SAR interferometry | 干涉测量（Lecture 6）**
+**Ch 5. SAR interferometry \| 干涉测量（Lecture 6）**
 
-5.1 Interferogram formation | 干涉图的形成
+5.1 Interferogram formation \| 干涉图的形成
 
 5.2 Geometric 干涉图中的几何信息
 
-5.3 Errors in interferometry | 干涉相位误差来源及分析
+5.3 Errors in interferometry \| 干涉相位误差来源及分析
 
-5.4 Test-6: Calculating coseismic interferometric phases | SAR数据提取地震同震形变
+5.4 Test-6: Calculating coseismic interferometric phases \| SAR数据提取地震同震形变
 
  
 
@@ -223,29 +223,29 @@ Homework (https://disk.pku.edu.cn:443/link/F6D691D020E35BF3EDFAE985F10C91ED)
 
  
 
-**Ch 6. Phase unwrapping | 相位解缠（Lecture 7）**
+**Ch 6. Phase unwrapping \| 相位解缠（Lecture 7）**
 
-6.1 Principle of phase unwrapping | 相位解缠问题的提出及基本解决思路
+6.1 Principle of phase unwrapping \| 相位解缠问题的提出及基本解决思路
 
-6.2 Branch-cut and minimum Lp normal methods | 枝切法和最小范数法
+6.2 Branch-cut and minimum Lp normal methods \| 枝切法和最小范数法
 
-6.3 Statistical-cost, Network-flow Algorithm for Phase Unwrapping | 最小统计费用流方法
+6.3 Statistical-cost, Network-flow Algorithm for Phase Unwrapping \| 最小统计费用流方法
 
-6.4 Test-7: unwarp interferogram | 干涉图接缠
+6.4 Test-7: unwarp interferogram \| 干涉图接缠
 
 Lecture material (https://disk.pku.edu.cn:443/link/3070A4F6710170C2131ADF29336B720F)
 
  
 
-**Ch 7. Coherence and change detection | 相干性和变化检测（Lecture 8）**
+**Ch 7. Coherence and change detection \| 相干性和变化检测（Lecture 8）**
 
-7.1 Changes in SAR images| 不同时相SAR影像变化
+7.1 Changes in SAR images\| 不同时相SAR影像变化
 
-7.2 Coherence and Coherence analysis | 相干性及其去相干分析
+7.2 Coherence and Coherence analysis \| 相干性及其去相干分析
 
-7.3 Statistics in time-series SAR amplitude images | 时间序列幅度影像统计特征
+7.3 Statistics in time-series SAR amplitude images \| 时间序列幅度影像统计特征
 
-7.4 Test-8: Detecting post-seismic landslides | 利用幅度和相干性影像探测震后滑坡
+7.4 Test-8: Detecting post-seismic landslides \| 利用幅度和相干性影像探测震后滑坡
 
 Lecture material (https://disk.pku.edu.cn:443/link/2726983C101EA9CCA21F03F648ECA717)  
 
@@ -253,9 +253,9 @@ Lecture material (https://disk.pku.edu.cn:443/link/2726983C101EA9CCA21F03F648ECA
 
  
 
-**Ch 8. Time-series InSAR analysis and applications | 时间序列InSAR分析及应用（Lecture 9）**
+**Ch 8. Time-series InSAR analysis and applications \| 时间序列InSAR分析及应用（Lecture 9）**
 
-8.1 Principle of time-series InSAR analysis | 时间序列InSAR分析基本原理
+8.1 Principle of time-series InSAR analysis \| 时间序列InSAR分析基本原理
 
 8.2 堆栈方法（Stacking）- 震间形变
 
@@ -267,15 +267,15 @@ Lecture material (https://disk.pku.edu.cn:443/link/228A20A34201A923C789359D2279A
 
  
 
-**Ch 9. Conclusions | 总结和展望**
+**Ch 9. Conclusions \| 总结和展望**
 
-9.1 Further SAR mission and applications | 未来SAR卫星计划和新的应用场景
+9.1 Further SAR mission and applications \| 未来SAR卫星计划和新的应用场景
 
-9.2 Bottleneck of current SAR image analysis and solutions | 当前SAR数据处理技术瓶颈和解决思路
+9.2 Bottleneck of current SAR image analysis and solutions \| 当前SAR数据处理技术瓶颈和解决思路
 
-9.3  SAR imaging geodesy with big data | 大数据条件下SAR数据处理发展趋势
+9.3  SAR imaging geodesy with big data \| 大数据条件下SAR数据处理发展趋势
 
-9.4  Conclusions and discussion | 课程总结和讨论
+9.4  Conclusions and discussion \| 课程总结和讨论
 
  
 
