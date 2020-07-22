@@ -52,7 +52,7 @@ wang.teng@pku.edu.cn
 * **Wenzhi Fan** (with Prof. Yonghong Zhao, Peking University)  
   Atmospheric related signals in InSAR  
 
-* Andong Xu (with Prof. Yonghong Zhao, Peking University)  
+* **Andong Xu** (with Prof. Yonghong Zhao, Peking University)  
   Coseismic ruptures and fractures  
 
 * **Zhipeng Wu** (with Prof. Yu Wang, University of Chinese Academy of Sciences)   
