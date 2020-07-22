@@ -66,11 +66,11 @@ Publications
 Software
 ======
 
-  {% include 'html-section.html' %}
+  {% include 'software.md' %}
   
   ----
   
-  <ul>{% include 'html-section.html' %}</ul>
+  <ul>{% include 'software.md' %}</ul>
   
   ----
   
