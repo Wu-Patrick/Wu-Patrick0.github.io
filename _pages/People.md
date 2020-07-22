@@ -19,7 +19,7 @@ author_profile: true
 ![PI_photo](/images/PI_photo.jpg)  
 **Teng Wang**  
 Assistant Profess, Peking University  
-wang.teng@pku.edu.cn
+<a href="mailto:wang.teng@pku.edu.cn">wang.teng@pku.edu.cn</A>
 
 **Research Interest**
 
