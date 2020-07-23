@@ -54,8 +54,18 @@ Assistant Profess, Peking University
 
 * **Andong Xu** (with Prof. Yonghong Zhao, Peking University)  
   Coseismic ruptures and fractures  
+  
+<style type="text/css">
+a:link,a:visited{
+ text-decoration:none;  /*超链接无下划线*/
+ color: black
+}
+a:hover{
+ text-decoration:underline;  /*鼠标放上去有下划线*/
+ color: red
+}</style>
 
-* **Zhipeng Wu** (with Prof. Yu Wang, University of Chinese Academy of Sciences)   
+* **<a href="https://wuzhipeng.cn/">Zhipeng Wu</a>** (with Prof. Yu Wang, University of Chinese Academy of Sciences)   
   AI in time-series InSAR analysis  
 
 * **Heng Luo** (with Prof. Mingsheng Liao, Wuhuan University)  
