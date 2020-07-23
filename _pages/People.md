@@ -16,7 +16,7 @@ author_profile: true
 
 ## Principle Investigator
 
-<div style="text-align: center;"> <img src="/images/PI_photo.jpg" alt="PI_photo" width = "500"> </div>  
+<div style="text-align: left;"> <img src="/images/PI_photo.jpg" alt="PI_photo" width = "500"> </div>  
 **Teng Wang**   
 Assistant Profess, Peking University  
 
