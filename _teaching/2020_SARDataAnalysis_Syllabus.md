@@ -1,5 +1,5 @@
 ---
-title: "SAR Data Analysis Syllabus"
+title: "Synthetic Aperture Radar Images Analysis and Applications"
 collection: teaching
 type: "Lectures about InSAR"
 permalink: /teaching/2020_SARDataAnalysis_Syllabus
@@ -8,19 +8,20 @@ date: 2020-07-22
 location: "Beijing, China"
 
 
+
 ---
 
 
 
 ![SAR Data Analysis Syllabus](/images/teaching01.jpg)  
 
-# <font color="red">Synthetic Aperture Radar Images Analysis and Applications</font>
+# Synthetic Aperture Radar Images Analysis and Applications
 
 **合成孔径雷达（SAR）数据分析及应用**
 
  
 
-Spring Semester, 2020, Geophysics Department, Peking University
+Spring, 2020, Peking University
 
  
 
@@ -84,7 +85,7 @@ Select one paper in the reference list, which is most close to you research fiel
 
  
 
-Reading Material (<https://disk.pku.edu.cn:443/link/A9CB6BDA2E2734D7DE4950046ADC9D5E>)
+[Reading Material](https://disk.pku.edu.cn:443/link/A9CB6BDA2E2734D7DE4950046ADC9D5E)
 
  
 
@@ -122,9 +123,9 @@ Select one paper from any topic you are interested in, or a paper you selected b
 
  
 
-Lecture material (<https://disk.pku.edu.cn:443/link/0C8D2B7CB8E1DF33E27FE94226FB003F>)
+[Lecture material](https://disk.pku.edu.cn:443/link/0C8D2B7CB8E1DF33E27FE94226FB003F)
 
-Homework (<https://disk.pku.edu.cn:443/link/4184774207E91DDAE474EA510F55BFA6>)
+[Homework](https://disk.pku.edu.cn:443/link/4184774207E91DDAE474EA510F55BFA6)
 
  
 
@@ -140,9 +141,9 @@ Homework (<https://disk.pku.edu.cn:443/link/4184774207E91DDAE474EA510F55BFA6>)
 
  
 
-Lecture material (<https://disk.pku.edu.cn:443/link/70AB8516DA7A3C5A51DAEE060FD7401D>)
+[Lecture material](https://disk.pku.edu.cn:443/link/70AB8516DA7A3C5A51DAEE060FD7401D)
 
-SAR Movies (<https://disk.pku.edu.cn:443/link/5D80A0E815C339BAFD365562F6E8AA52>)
+[SAR Movies](https://disk.pku.edu.cn:443/link/5D80A0E815C339BAFD365562F6E8AA52)
 
  
 
@@ -160,9 +161,9 @@ SAR Movies (<https://disk.pku.edu.cn:443/link/5D80A0E815C339BAFD365562F6E8AA52>)
 
  
 
-Lecture material (<https://disk.pku.edu.cn:443/link/C1A5CBC6A29B8403A3E98EA70A2B250B>)
+[Lecture material](https://disk.pku.edu.cn:443/link/C1A5CBC6A29B8403A3E98EA70A2B250B)
 
-Homework (<https://disk.pku.edu.cn:443/link/CDFF81E9D36A44F55FF7C90C9C97C136>)
+[Homework](https://disk.pku.edu.cn:443/link/CDFF81E9D36A44F55FF7C90C9C97C136)
 
  
 
@@ -182,7 +183,7 @@ Homework (<https://disk.pku.edu.cn:443/link/CDFF81E9D36A44F55FF7C90C9C97C136>)
 
  
 
-Lecture material (<https://disk.pku.edu.cn:443/link/CC4C653CA73CBDE364CC9C6ACB40C0A6>)
+[Lecture material](https://disk.pku.edu.cn:443/link/CC4C653CA73CBDE364CC9C6ACB40C0A6)
 
  
 
@@ -198,9 +199,9 @@ Lecture material (<https://disk.pku.edu.cn:443/link/CC4C653CA73CBDE364CC9C6ACB40
 
 4.4 Test 5: Calculating displacements due to nuclear test \| 计算核爆形变场
 
-Lecture material (<https://disk.pku.edu.cn:443/link/59BA371832FF85D6A1AD0AF3BAE3A454>)
+[Lecture material](https://disk.pku.edu.cn:443/link/59BA371832FF85D6A1AD0AF3BAE3A454)
 
-Homework (<https://disk.pku.edu.cn:443/link/06F790B0F40FDB77BA428830D1114153>)
+[Homework](https://disk.pku.edu.cn:443/link/06F790B0F40FDB77BA428830D1114153)
 
  
 
@@ -210,7 +211,7 @@ Homework (<https://disk.pku.edu.cn:443/link/06F790B0F40FDB77BA428830D1114153>)
 
 5.1 Interferogram formation \| 干涉图的形成
 
-5.2 Geometric 干涉图中的几何信息
+5.2 Geometric information in interferogram \| 干涉图中的几何信息
 
 5.3 Errors in interferometry \| 干涉相位误差来源及分析
 
@@ -218,9 +219,9 @@ Homework (<https://disk.pku.edu.cn:443/link/06F790B0F40FDB77BA428830D1114153>)
 
  
 
-Lecture material (<https://disk.pku.edu.cn:443/link/EEE712DC83F1807D213BE0907255CE0E>)
+[Lecture material](https://disk.pku.edu.cn:443/link/EEE712DC83F1807D213BE0907255CE0E)
 
-Homework (<https://disk.pku.edu.cn:443/link/F6D691D020E35BF3EDFAE985F10C91ED>)
+[Homework](https://disk.pku.edu.cn:443/link/F6D691D020E35BF3EDFAE985F10C91ED)
 
  
 
@@ -234,7 +235,7 @@ Homework (<https://disk.pku.edu.cn:443/link/F6D691D020E35BF3EDFAE985F10C91ED>)
 
 6.4 Test-7: unwarp interferogram \| 干涉图接缠
 
-Lecture material (<https://disk.pku.edu.cn:443/link/3070A4F6710170C2131ADF29336B720F>)
+[Lecture material](https://disk.pku.edu.cn:443/link/3070A4F6710170C2131ADF29336B720F)
 
  
 
@@ -248,7 +249,7 @@ Lecture material (<https://disk.pku.edu.cn:443/link/3070A4F6710170C2131ADF29336B
 
 7.4 Test-8: Detecting post-seismic landslides \| 利用幅度和相干性影像探测震后滑坡
 
-Lecture material (<https://disk.pku.edu.cn:443/link/2726983C101EA9CCA21F03F648ECA717>)  
+[Lecture material](https://disk.pku.edu.cn:443/link/2726983C101EA9CCA21F03F648ECA717)  
 
  
 
@@ -264,7 +265,7 @@ Lecture material (<https://disk.pku.edu.cn:443/link/2726983C101EA9CCA21F03F648EC
 
 8.4 小基线数据集方法（SBAS）- 火山、滑坡形变
 
-Lecture material (<https://disk.pku.edu.cn:443/link/228A20A34201A923C789359D2279A347>)
+[Lecture material](https://disk.pku.edu.cn:443/link/228A20A34201A923C789359D2279A347)
 
  
 
