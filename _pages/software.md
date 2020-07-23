@@ -13,7 +13,7 @@ author_profile: true
 {% endfor %}
 
  
-<div style="text-align: center;"> <img src="/images/softwareTitleEn.png" alt="softwareTitleEn" height = "80"> </div>
+<div style="text-align: center;"> <img src="/images/softwareTitleEn.png" alt="softwareTitleEn" width="875"> </div>
  
 
 The Sentinel-1 interferometry processor is developed by the [Radar Imaging Geodesy Group](https://sarimggeodesy.github.io/) at Peking University. The software package is designed for large-scale InSAR processing with Sentinel-1 TOPS images, which includes 4 modules:
@@ -39,7 +39,7 @@ The Sentinel-1 interferometry processor is developed by the [Radar Imaging Geode
 
  
 
- <div style="text-align: center;"> <img src="/images/softwareTitleCn.png" alt="softwareTitleCn" height = "80"> </div>
+ <div style="text-align: center;"> <img src="/images/softwareTitleCn.png" alt="softwareTitleCn" width="600"> </div>
 
 Sentinel-1 干涉处理器是北京大学[雷达影像测地学团队](https://sarimggeodesy.github.io/)针对Sentinel-1 TOPS数据开发的广域InSAR数据处理软件。包含四大模块：  
 
