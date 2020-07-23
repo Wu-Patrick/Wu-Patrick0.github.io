@@ -22,7 +22,7 @@ location: "Beijing, China"
 
  
 
-Spring, 2020, Peking University
+Spring 2020, Peking University
 
  
 
