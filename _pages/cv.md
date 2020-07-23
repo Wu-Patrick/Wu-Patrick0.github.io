@@ -32,7 +32,7 @@ Appointments
 Ph. D Thesis
 ======
 * Multi-image InSAR Analysis over the Three Gorges Region: Techniques and Applications
-Supervisors: Prof. Fabio Rocca, Politecnico di Milano and Prof. Mingsheng Liao, Wuhan University.
+Supervisors: Prof. Mingsheng Liao, Wuhan University and Prof. Fabio Rocca, Politecnico di Milano.
 
 Participated Projects
 ======
