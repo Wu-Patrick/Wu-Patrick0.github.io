@@ -13,16 +13,13 @@ author_profile: true
 {% endfor %}
 
  
-
-![softwareTitleEn](/images/softwareTitleEn.png)
-
+<div style="text-align: center;"> <img src="/images/softwareTitleEn.png" alt="softwareTitleEn" width = "600"> </div>
  
 
-The Sentinel-1 interferometry processor is developed by the Radar Imaging Geodesy Group at Peking University (<https://sarimggeodesy.github.io/>). The software package is designed for large-scale InSAR processing with Sentinel-1 TOPS images, which includes 4 modules:
+The Sentinel-1 interferometry processor is developed by the [Radar Imaging Geodesy Group](https://sarimggeodesy.github.io/) at Peking University. The software package is designed for large-scale InSAR processing with Sentinel-1 TOPS images, which includes 4 modules:
 
-­
 
-![software_icons_EN](/images/software_icons_EN.png)
+<div style="text-align: center;"> <img src="/images/software_icons_EN.png" alt="software_icons_EN" width = "500"> </div>
 
  
 
@@ -42,17 +39,12 @@ The Sentinel-1 interferometry processor is developed by the Radar Imaging Geodes
 
  
 
- 
+ <div style="text-align: center;"> <img src="/images/softwareTitleCn.png" alt="softwareTitleCn" width = "600"> </div>
+
+Sentinel-1 干涉处理器是北京大学[雷达影像测地学团队](https://sarimggeodesy.github.io/)针对Sentinel-1 TOPS数据开发的广域InSAR数据处理软件。包含四大模块：  
 
  
-
-![softwareTitleCn.png](/images/softwareTitleCn.png)
-
-Sentinel-1 干涉处理器是北京大学雷达影像测地学团队（<https://sarimggeodesy.github.io/>）针对Sentinel-1 TOPS数据开发的广域InSAR数据处理软件。包含四大模块：
-
- 
-
-![software_icons_CN](/images/software_icons_CN.png)
+<div style="text-align: center;"> <img src="/images/software_icons_CN.png" alt="software_icons_CN" width = "500"> </div>
 
  
 
@@ -68,9 +60,9 @@ Sentinel-1 干涉处理器是北京大学雷达影像测地学团队（<https://
 
 5. 干涉图为通用geotif格式存储，雷达参数文件以文本方式存储。可在地图界面选择任意区域将结果导出为StaMPS处理格式进行时序处理。
 
-6. Windows系统下专业**图形界面**，操作方便、易于上手，无需专业培训即可生成各种应用场景下的干涉图。
+6. Windows系统下专业**图形界面**，操作方便、易于上手，无需专业培训即可生成各种应用场景下的干涉图。  
 
-
+<div style="text-align: center;"> <img src="/images/software_cases.jpg" alt="software_cases" width = "500"> </div>  
 
 ## Click to download
 
@@ -80,7 +72,7 @@ Sentinel-1 干涉处理器是北京大学雷达影像测地学团队（<https://
 
 ## Manual
 
-<img src="/images/manual logo.png" width = "40" height = "40" /> [Chinese](/files/哨兵1数据处理软件手册-v1.0.pdf)
+<img src="/images/manual logo.png" width = "40" height = "40" /> [中文](/files/哨兵1数据处理软件手册-v1.0.pdf)
 
 <img src="/images/manual logo.png" width = "40" height = "40" /> [English](/files/Sentinel1Processor_Mannual-v1.0.pdf)
 
