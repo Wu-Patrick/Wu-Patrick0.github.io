@@ -1,7 +1,7 @@
 ---
 title: "Synthetic Aperture Radar Images Analysis and Applications"
 collection: teaching
-type: "Lectures about InSAR"
+type: "Spring"
 permalink: /teaching/2020_SARDataAnalysis_Syllabus
 venue: "Peking University"
 date: 2020-07-22
