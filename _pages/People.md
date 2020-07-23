@@ -16,10 +16,10 @@ author_profile: true
 
 ## Principle Investigator
 
-![PI_photo](/images/PI_photo.jpg)  
-**Teng Wang**  
+<div style="text-align: center;"> <img src="/images/PI_photo.jpg" alt="PI_photo" width = "400"> </div>  
+**Teng Wang**   
 Assistant Profess, Peking University  
-<a href="mailto:wang.teng@pku.edu.cn">wang.teng@pku.edu.cn</A>
+
 
 **Research Interest**
 
