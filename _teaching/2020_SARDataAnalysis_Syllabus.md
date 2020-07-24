@@ -54,7 +54,7 @@ By the end of this course, participants will be able to understand how SAR works
 
 Thank you for taking the SAR data analysis course. 
 
-I suppose most of you want to use SAR images as a tool to derive the information you need for your research. The goal of this course is to simulate your curiosity in studying crustal deformation using SAR imagery, either tectonic or none-tectonic. 
+I suppose most of you want to use SAR images as a tool to derive the information you need for your research. The goal of this course is to stimulate your curiosity in studying crustal deformation using SAR imagery, either tectonic or none-tectonic. 
 
 Considering the situation right now, I adjust the teaching strategy, and move forward the proposal writing session before the lectures with SAR image processing and analysis methods.   
 
